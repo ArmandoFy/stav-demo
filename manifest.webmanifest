@@ -1,0 +1,10 @@
+{
+  "name": "STAV Electrónica",
+  "short_name": "STAV",
+  "description": "Ingeniería de audio y video profesional",
+  "start_url": "/index.html",
+  "display": "browser",
+  "background_color": "#0a1226",
+  "theme_color": "#0a1226",
+  "icons": [{"src": "/images/favicon.png", "sizes": "192x192", "type": "image/png"}]
+}
